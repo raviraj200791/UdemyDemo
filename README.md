@@ -7,3 +7,5 @@ THIS IS A SIMPLE REAME FILE
 just an additional change
 
 Changes for Push Pull and Merge
+
+Edit on example branch
